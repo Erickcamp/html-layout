@@ -1,0 +1,35 @@
+header{
+    width: 100vw;
+    height: 20vh;
+    background-color: black;
+}
+.top {
+    background-color: white;
+    background-position: top;
+    height: 70vh;
+    
+}
+.left-side {
+    background-color: lightgray;
+    float: left;;
+    width: 10vw;
+    height: 80vh;
+
+}
+.right-side {
+    background-color: lightgray;
+    float: right;
+    width: 10vw;
+    height: 80vh;
+}
+.middle {
+    float: left;
+    width: 55vw;
+    height: 60vh;
+
+}
+.bottom{
+    background-color: black;
+    height: 10vh;
+    width: 80vw;
+}
